@@ -51,3 +51,9 @@ nav li:hover .dropdown-content {
 .dropdown-content ul {
     flex-direction: column;
 }
+img {
+    width: 200px;
+}
+.random {
+    font-size: 30px;
+}
